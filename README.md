@@ -21,7 +21,7 @@ Pre-requisites
 
 Setup
 ------
-Please follow the tutorial on http://dataplicity.com/get-started/raspberry-pi/ to setup a dataplicity account and register a application. 
+Please follow the tutorial on http://dataplicity.com to setup a dataplicity account and register a application. 
 Off course use this application instead of sinewave :-)
 
 Application breakdown is here ![here](omronDemo.pdf?raw=true).
